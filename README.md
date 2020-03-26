@@ -36,7 +36,7 @@ Record Job history. Its feature is the following.
 
 3. releases history
 
-    2019/12/02
+    2020/03/24
 
 4. API references
    No API.
